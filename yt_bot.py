@@ -4,7 +4,7 @@ import requests, logging
 from telegram.ext import Updater, MessageHandler, Filters, CommandHandler
 import token_pvt
 
-TOKEN = token_pvt.Token().TOKEN
+TOKEN = 928105941:AAG4k-VU6jKVL8VtMZeMSWFw5IFtKLAsj3g
 
 count = 0
 
